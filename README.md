@@ -12,8 +12,7 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-- 🔭 I’m currently working as Angular Frontend Developer
-- 🌱 I’m currently learning Reactjs
+- 🔭 I’m currently working as Frontend Developer
 - 👯 I’m looking to collaborate on your open source projects
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I never thought I would become a programmer!
