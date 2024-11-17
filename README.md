@@ -56,9 +56,9 @@
       <a style="margin-left: 10px;" target="_blank" href="mailto:angieanais@gmail.com">
 		    <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;">
       </a>
-		  <a style="margin-left: 5px;" target="_blank" href="https://www.instagram.com/anais_angie/">
-					<img src="https://img.icons8.com/?size=100&id=5eT5OnLluNOx&format=png&color=000000" style=" width:40px; height:40px;">
-      </a>
+		  <!--<a style="margin-left: 5px;" target="_blank" href="https://www.instagram.com/anais_angie/">
+					<img src="https://img.icons8.com/?size=100&id=5eT5OnLluNOx&format=png&color=000000" style=" width:40px; height:40px;"> 
+      </a>-->
   </div>
 
 </p>
